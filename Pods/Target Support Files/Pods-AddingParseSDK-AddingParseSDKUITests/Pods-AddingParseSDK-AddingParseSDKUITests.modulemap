@@ -1,0 +1,6 @@
+framework module Pods_AddingParseSDK_AddingParseSDKUITests {
+  umbrella header "Pods-AddingParseSDK-AddingParseSDKUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
